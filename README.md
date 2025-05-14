@@ -1,2 +1,2 @@
 # TallerGit
-Esto es un taller de prueba.
+Esto es un taller de prueba. Probando.
